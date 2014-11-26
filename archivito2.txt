@@ -1,1 +1,2 @@
-Este es otro archivito que seguir con git
+Este es otro archivito que seguir con git y luego modificarlo.
+Ahora la necesidad ocasiona que se obtenga un archivo doblemente modificado.
